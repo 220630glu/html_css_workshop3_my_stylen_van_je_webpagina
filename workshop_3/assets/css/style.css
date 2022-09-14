@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+#header{
+    background-image: url("http://jos.gluweb.nl/lessen/web/blue.png");
+    height: 150px;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 960px; 
+    margin: 0 auto;
+    color:#ffffff;
+    font-size: 25;
+    font-family: Arial;
+    line-height: 150px;
+}
+
+#content{
+    background-image: url("https://image.shutterstock.com/image-photo/old-brick-black-color-wall-260nw-1605128917.jpg");
+    width: 1200px;
+    height: 260px; 
+    margin: 0 auto;
+    color: #ffffff;
+    text-align:center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-repeat:repeat;
+}
+
+#footer{
+    text-align: center;
+}
